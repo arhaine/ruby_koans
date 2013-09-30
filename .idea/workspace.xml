@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa120df4-0334-4363-8d52-1c0352893499" name="Default" comment="" />
+    <list default="true" id="fa120df4-0334-4363-8d52-1c0352893499" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_blocks.rb" afterPath="$PROJECT_DIR$/koans/about_blocks.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_classes.rb" afterPath="$PROJECT_DIR$/koans/about_classes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_dice_project.rb" afterPath="$PROJECT_DIR$/koans/about_dice_project.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_iteration.rb" afterPath="$PROJECT_DIR$/koans/about_iteration.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_open_classes.rb" afterPath="$PROJECT_DIR$/koans/about_open_classes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_sandwich_code.rb" afterPath="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_scoring_project.rb" afterPath="$PROJECT_DIR$/koans/about_scoring_project.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ruby_koans.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380018148935" ignored="false" />
+    <file path="/Dummy.txt" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380567739394" ignored="false" />
     <file path="/about_asserts.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1379934093898" ignored="false" />
     <file path="/about_nil.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1379934794730" ignored="false" />
     <file path="/about_objects.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1379937665004" ignored="false" />
@@ -21,6 +30,13 @@
     <file path="/about_true_and_false.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1379974069182" ignored="false" />
     <file path="/triangle.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1379976097406" ignored="false" />
     <file path="/about_exceptions.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1379975191834" ignored="false" />
+    <file path="/about_iteration.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380540344821" ignored="false" />
+    <file path="/about_blocks.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380541418351" ignored="false" />
+    <file path="/about_sandwich_code.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380543142313" ignored="false" />
+    <file path="/about_scoring_project.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380553164634" ignored="false" />
+    <file path="/about_classes.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380558130799" ignored="false" />
+    <file path="/about_open_classes.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380558256196" ignored="false" />
+    <file path="/about_dice_project.rb" changelist="fa120df4-0334-4363-8d52-1c0352893499" time="1380558337042" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +56,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_keyword_arguments.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_keyword_arguments.rb">
+      <file leaf-file-name="about_arrays.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_arrays.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_constants.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_constants.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="18" selection-start="1811" selection-end="1811" vertical-scroll-proportion="0.0">
+            <state line="56" column="54" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,43 +68,7 @@
       <file leaf-file-name="about_control_statements.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_control_statements.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="19" selection-start="2896" selection-end="2896" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_true_and_false.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_true_and_false.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="25" selection-start="83" selection-end="84" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_arrays.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/koans/about_arrays.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="38" selection-start="874" selection-end="874" vertical-scroll-proportion="0.30176565">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_triangle_project.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="triangle.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/triangle.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="51" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+            <state line="105" column="26" selection-start="2338" selection-end="2338" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,16 +77,61 @@
       <file leaf-file-name="about_iteration.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_iteration.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="7" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+            <state line="101" column="45" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_exceptions.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_exceptions.rb">
+      <file leaf-file-name="about_blocks.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="31" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0">
+            <state line="92" column="19" selection-start="2365" selection-end="2365" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_sandwich_code.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_sandwich_code.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="18" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_scoring_project.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="32" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_classes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_classes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="186" column="28" selection-start="4026" selection-end="4026" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_open_classes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_open_classes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="21" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_dice_project.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koans/about_dice_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="5" selection-start="234" selection-end="234" vertical-scroll-proportion="0.024350649">
               <folding />
             </state>
           </provider>
@@ -148,14 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/koans/about_asserts.rb" />
-        <option value="$PROJECT_DIR$/koans/about_nil.rb" />
-        <option value="$PROJECT_DIR$/koans/about_objects.rb" />
-        <option value="$PROJECT_DIR$/koans/about_arrays.rb" />
-        <option value="$PROJECT_DIR$/koans/about_array_assignment.rb" />
-        <option value="$PROJECT_DIR$/koans/about_hashes.rb" />
-        <option value="$PROJECT_DIR$/koans/about_strings.rb" />
-        <option value="$PROJECT_DIR$/koans/about_symbols.rb" />
         <option value="$PROJECT_DIR$/koans/about_regular_expressions.rb" />
         <option value="$PROJECT_DIR$/koans/about_methods.rb" />
         <option value="$PROJECT_DIR$/koans/about_keyword_arguments.rb" />
@@ -164,12 +172,21 @@
         <option value="$PROJECT_DIR$/koans/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/koans/triangle.rb" />
         <option value="$PROJECT_DIR$/koans/about_true_and_false.rb" />
+        <option value="$PROJECT_DIR$/koans/about_arrays.rb" />
+        <option value="$PROJECT_DIR$/koans/about_iteration.rb" />
+        <option value="$PROJECT_DIR$/koans/about_blocks.rb" />
+        <option value="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
+        <option value="$PROJECT_DIR$/koans/about_scoring_project.rb" />
+        <option value="$PROJECT_DIR$/koans/about_classes.rb" />
+        <option value="$PROJECT_DIR$/koans/about_open_classes.rb" />
+        <option value="$PROJECT_DIR$/koans/about_dice_project.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="741" />
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -205,37 +222,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby_koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby_koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby_koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby_koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="editor" />
+    <property name="last_opened_file_path" value="$USER_HOME$/RubymineProjects/RG_HelloWorlds" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
@@ -270,14 +268,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="741" extended-state="4" />
-    <editor active="true" />
+    <frame x="-1" y="0" width="1368" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.259542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27954546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -355,69 +353,67 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/koans/about_array_assignment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="21" selection-start="1434" selection-end="1434" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_hashes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="2484" selection-end="2484" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_strings.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="194" column="22" selection-start="5276" selection-end="5276" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_symbols.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="19" selection-start="2553" selection-end="2553" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_regular_expressions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="148" column="0" selection-start="4510" selection-end="4510" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="30" selection-start="3678" selection-end="3678" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_keyword_arguments.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_constants.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="18" selection-start="1811" selection-end="1811" vertical-scroll-proportion="0.0">
+        <state line="80" column="18" selection-start="1811" selection-end="1811" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_exceptions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="31" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/triangle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="51" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_true_and_false.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="83" selection-end="84" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_arrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="54" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_iteration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="45" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="19" selection-start="2365" selection-end="2365" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_sandwich_code.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="18" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_control_statements.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="19" selection-start="2896" selection-end="2896" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_exceptions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="31" selection-start="1612" selection-end="1612" vertical-scroll-proportion="0.0">
+        <state line="105" column="26" selection-start="2338" selection-end="2338" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -429,30 +425,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/triangle.rb">
+    <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="51" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0">
+        <state line="23" column="32" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_iteration.rb">
+    <entry file="file://$PROJECT_DIR$/koans/about_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+        <state line="186" column="28" selection-start="4026" selection-end="4026" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_true_and_false.rb">
+    <entry file="file://$PROJECT_DIR$/koans/about_open_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="25" selection-start="83" selection-end="84" vertical-scroll-proportion="0.0">
+        <state line="39" column="21" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_arrays.rb">
+    <entry file="file://$PROJECT_DIR$/koans/about_dice_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="38" selection-start="874" selection-end="874" vertical-scroll-proportion="0.30176565">
+        <state line="11" column="5" selection-start="234" selection-end="234" vertical-scroll-proportion="0.024350649">
           <folding />
         </state>
       </provider>
